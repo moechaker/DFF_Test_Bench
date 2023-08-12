@@ -17,7 +17,7 @@ The D Flip-Flop Test Bench project aims to validate the proper functioning of a 
 
 ## Usage
 
-To run the FIFO design verification test bench, follow these steps:
+To run the design verification test bench, follow these steps:
 
 1. Visit this link: https://www.edaplayground.com/x/GMz7
 2. Top right, hit login and create an account
